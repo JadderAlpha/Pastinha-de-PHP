@@ -1,7 +1,0 @@
-#grid_container{
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    grid-gap: 10px;
-    background-color: rgb(19, 122, 5);
-    padding: 10px;
-}
