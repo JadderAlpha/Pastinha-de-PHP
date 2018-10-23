@@ -1,0 +1,7 @@
+<?php
+for ($i=1; $i < 101;$i++){
+    if ($i % 10 == 0){
+        echo $i." Multiplo de 10 <br>";
+    }
+    else echo $i."<br>";
+}
